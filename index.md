@@ -6,4 +6,5 @@
 
 - 👑 Preparando ambiente
 
-1) entre nesse [repositório](https://github.com/yTROLLGAMES/ntjogos-script)
+1) entre nesse [repositório](https://github.com/yTROLLGAMES/ntjogos-script) do github
+2) abra o seu terminal (continua em breve)
